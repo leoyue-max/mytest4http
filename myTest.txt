@@ -1,0 +1,5 @@
+public Hello{
+	public void static main(String[] args){
+		System.Out.println("Hello, world!");
+	}
+}
